@@ -1,0 +1,49 @@
+AR,Argentina
+AU,Australia
+AT,Austria
+BE,Belgium
+BR,Brazil
+CA,Canada
+CL,Chile
+CO,Colombia
+CZ,Czechia
+DK,Denmark
+EG,Egypt
+FI,Finland
+FR,France
+DE,Germany
+GR,Greece
+HK,Hong Kong
+HU,Hungary
+IN,India
+ID,Indonesia
+IE,Ireland
+IL,Israel
+IT,Italy
+JP,Japan
+KE,Kenya
+MY,Malaysia
+MX,Mexico
+NL,Netherlands
+NZ,New Zealand
+NG,Nigeria
+NO,Norway
+PH,Philippines
+PL,Poland
+PT,Portugal
+RO,Romania
+RU,Russia
+SA,Saudi Arabia
+SG,Singapore
+ZA,South Africa
+KR,South Korea
+SE,Sweden
+CH,Switzerland
+TW,Taiwan
+TH,Thailand
+TR,Turkey
+UA,Ukraine
+GB,United Kingdom
+US,United States
+VN,Vietnam
+end
