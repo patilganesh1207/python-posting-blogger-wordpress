@@ -1,2 +1,2 @@
-# python-auto-posting
-automate flow using python auto posting
+# python-auto-blogger-wordpress
+ generate blogger or wordpress post automatically.
